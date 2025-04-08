@@ -20,4 +20,5 @@ int c = ArrayProcessing.SumNegativeAfter2Zero(array_c.array) / 2;
 
 double result = Calculator.Calculate(a, b, c);
 Console.WriteLine($"Result: {result}");
+
 Console.ReadLine();
