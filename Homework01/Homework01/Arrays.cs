@@ -1,15 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-
-namespace ArrayDoing
+﻿namespace ArrayDoing
 {
     public class ArrayProcessing
     {
-        public int[] data;
+        public int[] array;
 
         /// <summary>  
         /// Input array from the keyboard.  
@@ -23,7 +16,7 @@ namespace ArrayDoing
                 Console.WriteLine("The number of array elements must be a positive number.\nEnter the number of array elements:");
             }
 
-            data = new int[size];
+            array = new int[size];
 
             for (int i = 0; i < size; i++)
             {
@@ -34,7 +27,7 @@ namespace ArrayDoing
                     string input = Console.ReadLine();
                     if (int.TryParse(input, out int value))
                     {
-                        data[i] = value;
+                        array[i] = value;
                         validInput = true;
                     }
                     else
@@ -50,7 +43,7 @@ namespace ArrayDoing
         /// </summary>  
         public void PrintArray()
         {
-            Console.WriteLine("Array: " + string.Join(" ", data));
+            Console.WriteLine("Array: " + string.Join(" ", array));
         }
 
         /// <summary>

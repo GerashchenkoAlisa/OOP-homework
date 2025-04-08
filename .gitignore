@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin/Debug/
+/bin/Release/
+/Homework02/Homework02/obj/Debug/net8.0
+/Homework02/Homework02/bin/Debug/net8.0
+/Homework02/.vs/Homework02/CopilotIndices/17.13.441.19478
+/Homework02/.vs/Homework02/copilot-chat/4ebd0d87/sessions
+/Homework02/.vs/Homework02/FileContentIndex
+/.vs/OOP-homework/CopilotIndices/17.13.441.19478

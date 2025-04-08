@@ -12,3 +12,4 @@ C:\Users\alisa\source\repos\OOP-homework\Homework01\Homework01\obj\Debug\net8.0\
 C:\Users\alisa\source\repos\OOP-homework\Homework01\Homework01\obj\Debug\net8.0\Homework01.pdb
 C:\Users\alisa\source\repos\OOP-homework\Homework01\Homework01\obj\Debug\net8.0\Homework01.genruntimeconfig.cache
 C:\Users\alisa\source\repos\OOP-homework\Homework01\Homework01\obj\Debug\net8.0\ref\Homework01.dll
+C:\Users\alisa\Source\Repos\OOP-homework\Homework01\Homework01\obj\Debug\net8.0\Homework01.sourcelink.json
