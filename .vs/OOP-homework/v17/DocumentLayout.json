@@ -5,6 +5,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-2\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW-2\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-1\\Homework02\\Homework02\\Program2 .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW-1\\Homework02\\Homework02\\Program2 .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-1\\Homework02\\Homework02\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW-1\\Homework02\\Homework02\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-1\\Homework01\\Homework01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW-1\\Homework01\\Homework01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-1\\Homework01\\Homework01\\Math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW-1\\Homework01\\Homework01\\Math.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-1\\Homework01\\Homework01\\Arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HW-1\\Homework01\\Homework01\\Arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,10 +44,75 @@
               "RelativeDocumentMoniker": "HW-2\\Car.cs",
               "ToolTip": "C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-2\\Car.cs",
               "RelativeToolTip": "HW-2\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T13:58:41.854Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program2 .cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-1\\Homework02\\Homework02\\Program2 .cs",
+              "RelativeDocumentMoniker": "HW-1\\Homework02\\Homework02\\Program2 .cs",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-1\\Homework02\\Homework02\\Program2 .cs",
+              "RelativeToolTip": "HW-1\\Homework02\\Homework02\\Program2 .cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:54:56.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-1\\Homework02\\Homework02\\Student.cs",
+              "RelativeDocumentMoniker": "HW-1\\Homework02\\Homework02\\Student.cs",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-1\\Homework02\\Homework02\\Student.cs",
+              "RelativeToolTip": "HW-1\\Homework02\\Homework02\\Student.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAHIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:54:53.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-1\\Homework01\\Homework01\\Arrays.cs",
+              "RelativeDocumentMoniker": "HW-1\\Homework01\\Homework01\\Arrays.cs",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-1\\Homework01\\Homework01\\Arrays.cs",
+              "RelativeToolTip": "HW-1\\Homework01\\Homework01\\Arrays.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:17:15.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-1\\Homework01\\Homework01\\Program.cs",
+              "RelativeDocumentMoniker": "HW-1\\Homework01\\Homework01\\Program.cs",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-1\\Homework01\\Homework01\\Program.cs",
+              "RelativeToolTip": "HW-1\\Homework01\\Homework01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:17:20.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Math.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-1\\Homework01\\Homework01\\Math.cs",
+              "RelativeDocumentMoniker": "HW-1\\Homework01\\Homework01\\Math.cs",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\OOP-homework\\HW-1\\Homework01\\Homework01\\Math.cs",
+              "RelativeToolTip": "HW-1\\Homework01\\Homework01\\Math.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:17:19.208Z",
               "EditorCaption": ""
             }
           ]

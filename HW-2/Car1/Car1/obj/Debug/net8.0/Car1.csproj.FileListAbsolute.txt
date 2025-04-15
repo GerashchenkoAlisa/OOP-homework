@@ -1,0 +1,15 @@
+C:\Users\alisa\source\repos\OOP-homework\HW-2\Car1\Car1\bin\Debug\net8.0\Car1.exe
+C:\Users\alisa\source\repos\OOP-homework\HW-2\Car1\Car1\bin\Debug\net8.0\Car1.deps.json
+C:\Users\alisa\source\repos\OOP-homework\HW-2\Car1\Car1\bin\Debug\net8.0\Car1.runtimeconfig.json
+C:\Users\alisa\source\repos\OOP-homework\HW-2\Car1\Car1\bin\Debug\net8.0\Car1.dll
+C:\Users\alisa\source\repos\OOP-homework\HW-2\Car1\Car1\bin\Debug\net8.0\Car1.pdb
+C:\Users\alisa\source\repos\OOP-homework\HW-2\Car1\Car1\obj\Debug\net8.0\Car1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\source\repos\OOP-homework\HW-2\Car1\Car1\obj\Debug\net8.0\Car1.AssemblyInfoInputs.cache
+C:\Users\alisa\source\repos\OOP-homework\HW-2\Car1\Car1\obj\Debug\net8.0\Car1.AssemblyInfo.cs
+C:\Users\alisa\source\repos\OOP-homework\HW-2\Car1\Car1\obj\Debug\net8.0\Car1.csproj.CoreCompileInputs.cache
+C:\Users\alisa\source\repos\OOP-homework\HW-2\Car1\Car1\obj\Debug\net8.0\Car1.sourcelink.json
+C:\Users\alisa\source\repos\OOP-homework\HW-2\Car1\Car1\obj\Debug\net8.0\Car1.dll
+C:\Users\alisa\source\repos\OOP-homework\HW-2\Car1\Car1\obj\Debug\net8.0\refint\Car1.dll
+C:\Users\alisa\source\repos\OOP-homework\HW-2\Car1\Car1\obj\Debug\net8.0\Car1.pdb
+C:\Users\alisa\source\repos\OOP-homework\HW-2\Car1\Car1\obj\Debug\net8.0\Car1.genruntimeconfig.cache
+C:\Users\alisa\source\repos\OOP-homework\HW-2\Car1\Car1\obj\Debug\net8.0\ref\Car1.dll
