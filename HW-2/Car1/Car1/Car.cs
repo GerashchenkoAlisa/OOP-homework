@@ -74,10 +74,11 @@ namespace Car1
         }
 
         /// <summary>
-        /// Accelerates the car by the specified value.
+        /// Accelerates the car by the specified value, consuming fuel in the process.
         /// </summary>
         /// <param name="value"></param>
-        public void Accelerate(int value)
+        /// <param name="fuelConsumptionRate"></param>
+        public void Accelerate(int value, int fuelConsumptionRate)
         {
             if (fuel > 0)
             {
@@ -87,7 +88,7 @@ namespace Car1
                     speed = MaxSpeed;
                 }
 
-                fuel -= value / 10;
+                fuel -= value / fuelConsumptionRate;
                 if (fuel < 0)
                 {
                     fuel = 0;
