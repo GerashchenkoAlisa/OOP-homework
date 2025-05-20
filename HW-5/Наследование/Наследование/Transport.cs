@@ -6,7 +6,7 @@
 public class Transport
 {
     private int speed;
-    private int FuelLevel;
+    private int fuelLevel;
 
     /// <summary>
     /// Gets or sets the speed of the transport.
@@ -23,7 +23,15 @@ public class Transport
     /// <param name="amount">The amount of fuel to add.</param>
     public void Refuel(int amount)
     {
-        FuelLevel += amount;
-        Console.WriteLine($"The transport is refueled. Fuel level: {FuelLevel}");
+        fuelLevel += amount;
+        Console.WriteLine($"The transport is refueled. Fuel level: {fuelLevel}");
+    }
+
+    /// <summary>
+    /// Starts the transport.
+    /// </summary>
+    public virtual void Start()
+    {
+        Console.WriteLine("The transport has started.");
     }
 }
