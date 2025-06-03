@@ -32,7 +32,7 @@ class Circle : Figure
     /// <param name="color">Figure color.</param>
     public Circle(double x, double y, double r, ConsoleColor color)
     {
-        Type = "Окружность";
+        Type = "Circle";
         X = x;
         Y = y;
         Radius = r;

@@ -16,7 +16,7 @@ class Rectangle : Polygon
     /// <param name="color">Figure color.</param>
     public Rectangle(double a, double b, ConsoleColor color)
     {
-        Type = "Прямоугольник";
+        Type = "Rectangle";
         Sides = new[] { a, b };
         Color = color;
     }

@@ -17,7 +17,7 @@ class Triangle : Polygon
     /// <param name="color">Figure color.</param>
     public Triangle(double a, double b, double c, ConsoleColor color)
     {
-        Type = "Треугольник";
+        Type = "Triangle";
         Sides = new[] { a, b, c };
         Color = color;
     }

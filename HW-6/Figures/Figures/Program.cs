@@ -59,7 +59,11 @@ class Program
 
         Console.WriteLine("\nGreen circles in the first quadrant:");
         foreach (var c in greenCircles)
-            Console.WriteLine($"Length: {c.GetLength():F2}, Center: ({c.X}, {c.Y})");
-        Console.ReadLine();
+            Console.WriteLine("\nGreen circles in the first quadrant:");
+        foreach (var c in greenCircles)
+        {
+            double length = c.GetLength();
+            Console.WriteLine($"Length: {length:F2}, Center: ({c.X}, {c.Y})");
+        }
     }
 }
