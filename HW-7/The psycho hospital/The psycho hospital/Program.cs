@@ -15,7 +15,10 @@ namespace HospitalApp
         {
             Hospital hospital = new Hospital();
 
-            var diagnoses = Enum.GetValues(typeof(Diagnosis)).Cast<Diagnosis>().OrderBy(d => d.ToString()).ToList();
+            var diagnoses = Enum.GetValues(typeof(Diagnosis))
+                .Cast<Diagnosis>()
+                .OrderBy(d => d.ToString())
+                .ToList();
 
             Console.WriteLine("List of diagnoses:");
             for (int i = 0; i < diagnoses.Count; i++)
