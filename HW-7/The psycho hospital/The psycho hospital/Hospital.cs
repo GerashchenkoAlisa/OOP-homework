@@ -43,7 +43,9 @@ namespace HospitalApp
         /// <param name="diagnosis">The diagnosis to filter patients by.</param>
         public void PrintPatientsByDiagnosis(Diagnosis diagnosis)
         {
-            var filteredPatients = Patients.Where(p => p.Diagnosis == diagnosis).OrderBy(p => p.Age).ToList();
+            var filteredPatients = Patients.Where(p => p.Diagnosis == diagnosis)
+                .OrderBy(p => p.Age)
+                .ToList();
 
             if (filteredPatients.Count == 0)
             {
